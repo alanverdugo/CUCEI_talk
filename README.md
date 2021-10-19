@@ -1,2 +1,1 @@
-# CUCEI_talk
-Presentación sobre Python para CUCEI
+Slides for the talk at CUCEI (https://en.wikipedia.org/wiki/CUCEI)
